@@ -1,0 +1,25 @@
+{
+  "name": "beer-lang",
+  "version": "1.0.0",
+  "description": "beer-lang is the best programming language created to have fun and learn new things!",
+  "main": "main.py",
+  "scripts": {
+    "test": "!testthisshit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beer-lang/beer.git"
+  },
+  "keywords": [
+    "love-beer"
+  ],
+  "author": "Hugoonrepit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beer-lang/beer/issues"
+  },
+  "homepage": "https://github.com/beer-lang/beer#readme",
+  "dependencies": {
+    "beer-lang": "^1.0.0"
+  }
+}
