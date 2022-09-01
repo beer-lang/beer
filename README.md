@@ -1,2 +1,2 @@
 # beer
-`npm i love-beer`
+Install beer-lang == `npm i love-beer`
