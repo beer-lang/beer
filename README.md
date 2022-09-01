@@ -1,7 +1,7 @@
 # beer
 
 ## Install beer-lang
-- On the shell install `npm i love-beer` or `npm i beer-lang`
+- On the shell install `npm i love-beer` or `npm i beer-lang (disabled for 1 day)`
 
 ## How to use beer-lang
 
