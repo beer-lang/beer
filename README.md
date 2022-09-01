@@ -1,4 +1,4 @@
-# beer
+# beer-lang README.md file
 
 ## Install beer-lang
 - On the shell install `npm i love-beer` or `npm i beer-lang (disabled for 1 day)`
