@@ -22,7 +22,8 @@ https://user-images.githubusercontent.com/112619899/187945506-fcaef5e3-f3b2-473f
 ### For the IDE's 
 - beer is free to use if you give credit to @Hugoonreplit printing this on the cosole : Created by Hugo Urías Lombraña (@Hugoonreplit) also include this on the description and please notify Hugoonreplit@gmail.com if it is added!
 
-### Please Follow
+### Please Join and Follow
+- Discord Server : https://discord.gg/wa69xpBVyH
 - Beer-lang on Github and Twitter 
 - Hugoonreplit on Github, Twitter and Replit
 
