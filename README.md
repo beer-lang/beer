@@ -3,6 +3,9 @@
 ## Install beer-lang
 - On the shell install `npm i love-beer` or `npm i beer-lang`
 
+## Typing
+- Type something in 100+ languages!
+
 ## How to use beer-lang
 
 ### We have a video :
