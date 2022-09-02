@@ -17,7 +17,6 @@ https://user-images.githubusercontent.com/112619899/187945506-fcaef5e3-f3b2-473f
 
 ### For the users
 - Everyone is free to use beer-lang!
-- Except people who like java
 
 ### For the IDE's 
 - beer is free to use if you give credit to @Hugoonreplit printing this on the cosole : Created by Hugo Urías Lombraña (@Hugoonreplit) also include this on the description and please notify Hugoonreplit@gmail.com if it is added!
@@ -28,5 +27,5 @@ https://user-images.githubusercontent.com/112619899/187945506-fcaef5e3-f3b2-473f
 - Hugoonreplit on Github, Twitter and Replit
 
 ### Please Make
-- A wikipedia name with the beer-lang info that is provided on this file! Also name Hugoonreplit, ask him about him on discord Hugoonreplit#000 
+- A wikipedia name with the beer-lang info that is provided on this file! Also name Hugoonreplit, ask him about him on discord Hugoonreplit#0001
 - Who makes this page will have a special discord badge!
